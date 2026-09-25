@@ -14,3 +14,7 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+## Bug Fix
+
+Fixed a documentation typo.
